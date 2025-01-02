@@ -1,0 +1,1 @@
+<!-- inicializador de sesiones -->

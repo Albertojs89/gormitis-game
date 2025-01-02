@@ -1,0 +1,1 @@
+<!-- assignar objetos especiales -->

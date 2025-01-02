@@ -1,0 +1,1 @@
+<!-- clase para los objetos especiales -->
