@@ -1,1 +1,2 @@
-<!-- inicializador de sesiones -->
+<?php
+session_start();
